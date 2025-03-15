@@ -5,3 +5,8 @@ if iDDD in DDD:
     print(DDD[iDDD])
 else:
     print("Não incluso.")
+
+
+
+
+
