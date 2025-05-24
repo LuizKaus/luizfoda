@@ -1,0 +1,30 @@
+convidados = ["julio" , "vitoria" , "luiz" , "lorenzo" , "carlos"]
+
+print(convidados[1] , convidados[-1])
+                                
+
+convidados[1] = "vitor" 
+
+print(convidados[1])
+print(convidados)
+
+convidadoremovido = convidados.pop()
+
+print(convidadoremovido)
+print(convidados)
+
+convidados.remove("luiz")
+
+print(convidados)
+
+convidados.sort()
+
+print(convidados)
+
+convidados.sort(reverse=True)
+print(convidados)
+
+timeXpessoas = [["palmeiras" , "flamengo" , "cruzeiro" , "sport" , "treze"], ["josé" , "maria" , "thiago" , "pablo" , "luana"]]
+                
+print(timeXpessoas[0][4])  
+print(timeXpessoas[1][2])             
