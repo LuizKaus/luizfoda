@@ -1,0 +1,8 @@
+
+Cliente: Qual seu anime favorito?
+
+Cliente: ra
+Chatbot: Qual seu anime favorito?
+
+Cliente: Qual seu anime favorito?
+Chatbot: Qual seu anime favorito?
